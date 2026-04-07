@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZNS_Dev</h1>
 <h3 align="center">Modding Games Unreal Engine 4/5</h3>
 
-- 🔭 I’m currently working on [Maps for UpGun Mod Loader](https://github.com/XorcodeYt/UpGunLoader)
-
 - 👀 I'm prepare to new project [TJOC Mods](https://gamejolt.com/games/tjoc_mods/955421)
 
 <h3 align="left">Connect with me:</h3>
