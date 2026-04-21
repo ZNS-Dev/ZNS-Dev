@@ -3,7 +3,6 @@
 # 💫 About Me:
 ⚡ Modding UE4/5<br>🔭 I’m currently working on THE JOY OF CREATION MODS<br>💬 Ask me about help for Modding
 
-
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zns_dev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zns_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZNS_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZNS_Dev) 
 
@@ -15,4 +14,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZNS-Dev&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ZNS-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
