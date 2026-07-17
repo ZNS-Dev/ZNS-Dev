@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ZNS_Dev</h1>
 
 ## 💫 About Me:
-⚡ Modding UE4/5<br>🔭 I’m currently working on THE JOY OF CREATION MODS<br>💬 Ask me about help for Modding
+⚡ Modding UE4/5<br>🔭 I’m currently working on Black Ops III Mods<br>💬 Ask me about help for Modding<br>❤️ Support my work: https://ko-fi.com/zns_dev
+
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zns_dev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zns_dev) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZNS_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ZNS_Dev) 
